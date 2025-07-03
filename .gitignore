@@ -133,3 +133,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+*.log
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+
+# Terminal singleton specific temporary files  
+/tmp/
+*.tmp

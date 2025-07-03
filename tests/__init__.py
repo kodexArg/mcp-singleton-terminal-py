@@ -1,0 +1,1 @@
+# Tests package for terminal-singleton-py 
